@@ -1,0 +1,7 @@
+<aura:component controller="ControllerApex">
+    <input type="button" onclick="{!c.play}" value="PLAY" style="background-color:aqua"/>
+    <br></br>
+    <input type="button" value="STOP"/>
+    <br></br>
+    <input type="text" aura:id="topo"/>
+</aura:component>

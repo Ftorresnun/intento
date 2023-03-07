@@ -1,0 +1,3 @@
+<aura:event type="APPLICATION" description="Event template">
+    <aura:attribute name="topo" type="String" default="topo"/>
+</aura:event>
